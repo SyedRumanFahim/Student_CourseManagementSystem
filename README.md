@@ -8,7 +8,7 @@
 * MySQL
 * Maven
 
-##CRUD API
+## CRUD API
 * Each example API preceeded by "http://localhost:8080"
 * /students -> provides the list of all students
 * /students/{studentId} -> provieds the list of a specific student
