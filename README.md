@@ -1,6 +1,6 @@
 # Student_CourseManagementSystem
-*Created a restful API on Spring boot.
-*all the GET, POST, PUT, and DELETE requests are checked with POSTMAN and it is working fine
+* Created a restful API on Spring boot.
+* all the GET, POST, PUT, and DELETE requests are checked with POSTMAN and it is working fine
 
 ## Technologies and Dependencies used
 * Spring boot
